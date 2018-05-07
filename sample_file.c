@@ -12,7 +12,7 @@ glutInit(&argc, argv);
 /* set the size of the window that will be created by
 * the call to glutCreateWindow() further on.
 */
-glutInitWindowSize(800, 600) 2;
+glutInitWindowSize(800, 600) 6;
 /* specify display mode, some usefull flags are:
 * GLUT_DOUBLE: use double buffering
 * GLUT_DEPTH: provide a depth buffer (Z-buffer)
